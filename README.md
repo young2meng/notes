@@ -1,3 +1,3 @@
 # notes
 
-record general commands
+record general commands,etc
